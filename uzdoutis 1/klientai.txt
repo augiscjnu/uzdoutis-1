@@ -1,0 +1,2 @@
+﻿1,Jonas,Jankauskas,+37060000000,jonas@example.com
+2,Onutė,Jovaišienė,+37060000001,onute@example.com
